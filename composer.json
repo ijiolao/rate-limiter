@@ -1,0 +1,18 @@
+{
+    "name": "ijiolao/rate-limiter",
+    "description": "A laravel package for implementing API rate limiting",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ijiolao\\RateLimiter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ijiola Olawale"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
